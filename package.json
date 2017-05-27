@@ -1,11 +1,11 @@
 {
   "name": "skill-scm-distributed-git-apprentice",
   "version": "0.1.0",
-  "description": "",
+  "description": "SKILL: SCM (Distributed) - Git (Apprentice Developer)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Andrew Harmel-Law",
-  "license": "MIT"
+  "license": "CC"
 }
